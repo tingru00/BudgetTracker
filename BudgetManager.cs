@@ -67,7 +67,7 @@ namespace BudgetTracker
 
                 Console.WriteLine($"\nTotala inkomster: {income}");
                 Console.WriteLine($"Totala utgifter: {expenses}");
-                Console.WriteLine($"Balans: {(income + expenses)}");
+                Console.WriteLine($"Saldo: {(income + expenses)}");
             }
 
             //Metod DeleteTransaction() tar bort transaktioner
