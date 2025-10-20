@@ -8,7 +8,7 @@ namespace BudgetTracker
 {
         public class Transaction
         {
-            //Deklarerar attribut med get/return för att kunna använda i BudgetManager
+            //Deklarerar attribut
             public string Description;
             public decimal Amount;
             public string Category;
