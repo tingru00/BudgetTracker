@@ -1,0 +1,10 @@
+ 1️⃣ Hur hjälpte klasser och metoder dig att organisera programmet?
+Det blev mindre rörigt, lättare att läsa igenom och förstå. Att ha metoder gör också att man inte behöver skriva samma kod om och om igen,
+vilket underlättar väldigt mycket.
+
+ 3️⃣ Vilken del av projektet var mest utmanande?
+Att skapa metoderna i BudgetManager, det var mycket logik o svårt att veta vad som funkar
+bäst att använda i olika situationer. Sedan att koden till mitt projekt försvann när jag 
+pushat till github. Så jag klistrade in koden jag hade kvar från github i ett nytt projekt undefär 3 gånger,
+men det sedan visade sig att den inte hade försvunnit utan att klasserna jag jobbade i hade "gömt sig".
+Det var väldigt jobbigt, jag hade ändå koden kvar men nu syns inte mitt arbetsflöde.
